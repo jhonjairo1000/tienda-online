@@ -11,7 +11,16 @@ const products = [
     { id: 6, name: "Balón de fútbol", price: 30, img: "futbol-americano.png" },
   ];
  
-  
+  // Agregar producto al carrito
+  document.querySelectorAll('.add-to-cart').forEach(button => {
+    button.addEventListener('click', () => {
+      const productId = parseInt(button.dataset.id);
+      const product = products.find(p => p.id === productId);
+      cart.push(product);
+      localStorage.setItem('cart', JSON.stringify(cart));
+      alert(`${product.name} añadido al carrito.`);
+    });
+  });
  
 // Función para añadir productos al carrito
 function addToCart(name, price) {
