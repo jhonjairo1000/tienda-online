@@ -1,4 +1,12 @@
 Page */
+header {
+  background: #0056d6;
+  color: #fff;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 .products-page {
     padding: 20px;
     background-color: #f9f9f9;
