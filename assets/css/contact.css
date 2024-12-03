@@ -105,3 +105,8 @@ p {
     margin-bottom: 15px;
     color: blue;
 }
+
+.footer div img{
+    width: 60px;
+    height: 60px;
+  }
