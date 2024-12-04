@@ -3,12 +3,12 @@ let cart = JSON.parse(localStorage.getItem('cart')) || [];
  
 // Manejo de productos dinámico
 const products = [
-    { id: 1, name: "Laptop", price: 800, img: "ordenador-portatil.png" },
-    { id: 2, name: "Smartphone", price: 600, img: "smartphone.png" },
-    { id: 3, name: "Sofá", price: 300, img: "cama.png" },
-    { id: 4, name: "Lámpara", price: 50, img: "lampara-de-mesa.png" },
-    { id: 5, name: "Bicicleta", price: 150, img: "bmx.png" },
-    { id: 6, name: "Balón de fútbol", price: 30, img: "futbol-americano.png" },
+    { id: 1, name: "Jeans Dama", price: 120000, img: "jm1.jpgj" },
+    { id: 2, name: "Jeans Dama", price: 110000, img: "jm2.jpgj" },
+    { id: 3, name: "Bermuda Hombre", price: 90000, img: "berH1.jpg" },
+    { id: 4, name: "Bermuda Hombre", price: 95000, img: "berH2.jpg" },
+    { id: 5, name: "Short Dama", price: 65000, img: "shortM1.jpeg" },
+    { id: 6, name: "Short Dama", price: 70000, img: "shortM2.jpeg" },
   ];
  
   // Agregar producto al carrito
