@@ -9,6 +9,13 @@ const products = [
     { id: 4, name: "Bermuda Hombre", price: 95000, img: "berH2.jpg" },
     { id: 5, name: "Short Dama", price: 65000, img: "shortM1.jpeg" },
     { id: 6, name: "Short Dama", price: 70000, img: "shortM2.jpeg" },
+
+    { id: 7, name: "Jeans Hombre", price: 130000, img: "ph2.jpg" },
+    { id: 8, name: "Jeans Hombre", price: 120000, img: "ph3.jpg" },
+    { id: 9, name: "Blusa Mujer", price: 75000, img: "blusaM1.jpeg" },
+    { id: 10, name: "Blusa Mujer", price: 80000, img: "blusaM2.jpeg" },
+    { id: 11, name: "Sweter Hombre", price: 65000, img: "sweterH1.jpeg" },
+    { id: 12, name: "Sweter Hombre", price: 75000, img: "sweterH2.jpeg" },
   ];
  
   // Agregar producto al carrito
