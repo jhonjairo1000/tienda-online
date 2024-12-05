@@ -9,7 +9,7 @@ body {
 header {
   /*background: #0056d6;*/
   background-image: url("./assets/images/fondo\ ropa.jpeg");
-      color: #fff;
+      color: blue;
   padding: 20px;
   display: flex;
   justify-content: space-between;
