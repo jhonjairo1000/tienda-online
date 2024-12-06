@@ -96,7 +96,7 @@ header nav a:hover {
 }
  
 .product button:hover {
-  background: #003c99;
+  background: blue;
 }
  
 /* Features Section */
@@ -156,6 +156,9 @@ header nav a:hover {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+.header nav a{
+  color: white;
 }
  
  
