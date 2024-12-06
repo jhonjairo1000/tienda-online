@@ -6,7 +6,7 @@ body {
   padding: 0;
   color: #333;
 }
-header {
+.header {
   background: #0056d6;
   color: #fff;
   padding: 20px;

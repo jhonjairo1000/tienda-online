@@ -6,9 +6,9 @@ body {
   color: #333;
 }
  
-header {
+.header {
   /*background: #0056d6;*/
-  background-image: url("/assets/images/fondo-ropa.jpeg");
+  background:
       color: blue;
   padding: 20px;
   display: flex;
