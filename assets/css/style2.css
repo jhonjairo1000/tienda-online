@@ -95,3 +95,9 @@ header {
     text-decoration: none;
     margin: 0 10px;
   }
+  .footer{
+    background-color: #003c99;
+    color: white;
+    text-align: center;
+    padding: 20px 10px;
+  }
