@@ -85,11 +85,11 @@ header nav a:hover {
   border: 1px solid #ddd;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  width: 30%;
+  width: 25%;
 }
  
 .product img {
-  width: 100%;
+  width: 80%;
   border-radius: 8px;
 }
  
