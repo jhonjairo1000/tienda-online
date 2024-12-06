@@ -151,5 +151,10 @@ header nav a:hover {
 .footer-links {
   margin-top: 10px;
 }
+.footer-links a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+}
  
  
