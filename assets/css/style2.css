@@ -85,4 +85,8 @@ header {
   .product button:hover {
     background-color: #003c99;
   }
-  
+  .social-icons img {
+    width: 30px;
+    height: 30px;
+    margin: 0 10px;
+  }

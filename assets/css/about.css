@@ -105,4 +105,8 @@ body {
     height: 100px;
     margin-bottom: 10px;
   }
- 
+  .social-icons img {
+    width: 30px;
+    height: 30px;
+    margin: 0 10px;
+  }

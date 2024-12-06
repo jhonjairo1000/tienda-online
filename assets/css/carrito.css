@@ -144,3 +144,8 @@ body {
   .footer-links a:hover {
     text-decoration: underline;
   }
+  .social-icons img {
+    width: 30px;
+    height: 30px;
+    margin: 0 10px;
+  }
