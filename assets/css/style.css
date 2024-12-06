@@ -6,15 +6,7 @@ body {
   color: #333;
 }
  
-.header {
-  /*background: #0056d6;*/
-  background:#003c99;
-      color: white;
-  padding: 20px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
+
  
 header nav a {
   color: blue;
@@ -155,6 +147,15 @@ header nav a:hover {
   color: white;
   text-decoration: none;
   margin: 0 10px;
+}
+.header {
+  /*background: #0056d6;*/
+  background:#003c99;
+  color: white;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
  
  

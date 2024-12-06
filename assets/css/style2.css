@@ -6,14 +6,7 @@ body {
   padding: 0;
   color: #333;
 }
-.header {
-  background: #0056d6;
-  color: #fff;
-  padding: 20px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
+
 
 .products-page {
     padding: 20px;
@@ -100,4 +93,13 @@ body {
     color: white;
     text-align: center;
     padding: 20px 10px;
+  }
+
+  .header {
+    background: #0056d6;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
   }
