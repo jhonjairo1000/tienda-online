@@ -7,6 +7,14 @@ body {
   color: #333;
 }
 
+.header nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+}
+ 
+
 
 .products-page {
     padding: 20px;
@@ -103,10 +111,4 @@ body {
     justify-content: space-between;
     align-items: center;
   }
-  .header nav a {
-    color: white;
-    text-decoration: none;
-    margin: 0 15px;
-    font-weight: bold;
-  }
-   
+  
